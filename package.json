@@ -4,6 +4,9 @@
   "dependencies": {
     "web": "*",
     "web-socket": "*",
-    "web-send": "*"
+    "web-send": "*",
+    "leveldown": "~0.1.4",
+    "marked": "~0.2.8",
+    "kernel": "~0.1.4"
   }
 }
