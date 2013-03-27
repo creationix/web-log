@@ -2,6 +2,8 @@
   "name": "web-log",
   "version": "0.0.0",
   "dependencies": {
-    "web": "0.0.2"
+    "web": "*",
+    "web-socket": "*",
+    "web-send": "*"
   }
 }
